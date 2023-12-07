@@ -6,7 +6,6 @@ from random import randrange
 import re
 import requests
 
-
 headers = [
     {
         'authority': 'api.digikala.com',
